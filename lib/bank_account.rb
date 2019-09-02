@@ -23,7 +23,8 @@ class BankAccount
       true 
     elsif self.balance > 0 
       true 
-  end
+    end 
+  end 
     
 
 end
