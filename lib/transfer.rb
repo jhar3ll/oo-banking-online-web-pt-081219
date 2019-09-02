@@ -1,7 +1,7 @@
 class Transfer
   
   
-  def initialize(self)
+  def initialize
     
   end 
 end
