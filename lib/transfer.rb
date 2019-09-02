@@ -18,6 +18,8 @@ class Transfer
       receiver.balance += amount
       @status = "complete"
     end
+  else
+    return ""
   end 
 
 end
