@@ -1,7 +1,7 @@
 class Transfer
   
   
-  def initialize
-    @name = name 
+  def initialize(self)
+    
   end 
 end
